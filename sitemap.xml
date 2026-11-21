@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://sydouthere-sudo.github.io/sydneythecreative/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://www.sydneythecreative.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://sydouthere-sudo.github.io/sydneythecreative/</loc>
+<loc>https://www.sydneythecreative.com/</loc>
 </url>
 <url>
-<loc>https://sydouthere-sudo.github.io/sydneythecreative/about-me/</loc>
+<loc>https://www.sydneythecreative.com/about-me/</loc>
 <lastmod>2026-11-20T20:42:46-05:00</lastmod>
 <image:image>
-<image:loc>https://sydouthere-sudo.github.io/sydneythecreative/media/posts/2/IMG_20160121_193021.jpg</image:loc>
+<image:loc>https://www.sydneythecreative.com/media/posts/2/IMG_20160121_193021.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://sydouthere-sudo.github.io/sydneythecreative/bibliography/</loc>
+<loc>https://www.sydneythecreative.com/bibliography/</loc>
 <lastmod>2026-11-20T18:30:31-05:00</lastmod>
 </url>
 <url>
-<loc>https://sydouthere-sudo.github.io/sydneythecreative/my-first-site/</loc>
+<loc>https://www.sydneythecreative.com/my-first-site/</loc>
 <lastmod>2026-11-20T18:05:52-05:00</lastmod>
 <image:image>
-<image:loc>https://sydouthere-sudo.github.io/sydneythecreative/media/posts/1/20180429_195529.jpg</image:loc>
+<image:loc>https://www.sydneythecreative.com/media/posts/1/20180429_195529.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
