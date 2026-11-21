@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>www.sydneythecreative.com</title>
-    <link href="https://sydouthere-sudo.github.io/sydneythecreative/feed.xml" rel="self" />
-    <link href="https://sydouthere-sudo.github.io/sydneythecreative" />
+    <link href="https://github.com/sydouthere-sudo/sydneythecreative.git/feed.xml" rel="self" />
+    <link href="https://github.com/sydouthere-sudo/sydneythecreative.git" />
     <updated>2026-11-20T18:05:52-05:00</updated>
     <author>
         <name>Sydney the Creative</name>
     </author>
-    <id>https://sydouthere-sudo.github.io/sydneythecreative</id>
+    <id>https://github.com/sydouthere-sudo/sydneythecreative.git</id>
 
     <entry>
         <title>My First Site</title>
         <author>
             <name>Sydney the Creative</name>
         </author>
-        <link href="https://sydouthere-sudo.github.io/sydneythecreative/my-first-site/index.html"/>
-        <id>https://sydouthere-sudo.github.io/sydneythecreative/my-first-site/index.html</id>
-        <media:content url="https://sydouthere-sudo.github.io/sydneythecreative/media/posts/1/20180429_195529.jpg" medium="image" />
+        <link href="https://github.com/sydouthere-sudo/sydneythecreative.git/my-first-site/index.html"/>
+        <id>https://github.com/sydouthere-sudo/sydneythecreative.git/my-first-site/index.html</id>
+        <media:content url="https://github.com/sydouthere-sudo/sydneythecreative.git/media/posts/1/20180429_195529.jpg" medium="image" />
 
         <updated>2026-11-20T18:03:01-05:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://sydouthere-sudo.github.io/sydneythecreative/media/posts/1/20180429_195529.jpg" alt="" />
+                        <img src="https://github.com/sydouthere-sudo/sydneythecreative.git/media/posts/1/20180429_195529.jpg" alt="" />
                     So far, I'm figuring things out as I go along. This will be a place where I share my thoughts, cite my writing&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://sydouthere-sudo.github.io/sydneythecreative/media/posts/1/20180429_195529.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://github.com/sydouthere-sudo/sydneythecreative.git/media/posts/1/20180429_195529.jpg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     So far, I'm figuring things out as I go along. This will be a place where I share my thoughts, cite my writing and add my photography. Thank you for listening and welcome to my space.

@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "www.sydneythecreative.com",
     "description": "",
-    "home_page_url": "https://sydouthere-sudo.github.io/sydneythecreative",
-    "feed_url": "https://sydouthere-sudo.github.io/sydneythecreative/feed.json",
+    "home_page_url": "https://github.com/sydouthere-sudo/sydneythecreative.git",
+    "feed_url": "https://github.com/sydouthere-sudo/sydneythecreative.git/feed.json",
     "user_comment": "",
     "author": {
         "name": "Sydney the Creative"
     },
     "items": [
         {
-            "id": "https://sydouthere-sudo.github.io/sydneythecreative/my-first-site/index.html",
-            "url": "https://sydouthere-sudo.github.io/sydneythecreative/my-first-site/index.html",
+            "id": "https://github.com/sydouthere-sudo/sydneythecreative.git/my-first-site/index.html",
+            "url": "https://github.com/sydouthere-sudo/sydneythecreative.git/my-first-site/index.html",
             "title": "My First Site",
             "summary": "So far, I'm figuring things out as I go along. This will be a place where I share my thoughts, cite my writing&hellip;",
             "content_html": "\n  <p>\n    So far, I'm figuring things out as I go along. This will be a place where I share my thoughts, cite my writing and add my photography. Thank you for listening and welcome to my space.\n  </p>",
-            "image": "https://sydouthere-sudo.github.io/sydneythecreative/media/posts/1/20180429_195529.jpg",
+            "image": "https://github.com/sydouthere-sudo/sydneythecreative.git/media/posts/1/20180429_195529.jpg",
             "author": {
                 "name": "Sydney the Creative"
             },
